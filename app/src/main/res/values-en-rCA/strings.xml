@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSierra_programationNativeMobile_TP2</string>
+    <string name="École">School: Grasset Institute</string>
+    <string name="Programme">Program: IT skills</string>
+    <string name="Nom">Name: Juan Pawlo Sierra Arias</string>
+    <string name="Cours">Course: Native mobile programming (420-PN6-AG)</string>
+    <string name="Date_de_remise">remittance date: May 4, 2020</string>
+</resources>
